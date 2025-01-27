@@ -20,4 +20,3 @@ class Persona:
 persona = Persona('Leo', 'Cacuango', '30')
 persona.informacion()
 
-
